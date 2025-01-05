@@ -1,4 +1,5 @@
 # CS669 Deep Learning Assignment 3: Dog vs Cat vs Bird Classifier
+### Course Instructor: Dr. Tahir Syed - Institute of Business Administration (IBA), Karachi
 
 ## Image Classification Project: Cat vs Dog vs Bird
 
